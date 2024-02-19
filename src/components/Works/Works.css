@@ -30,9 +30,21 @@
 
 }
 .worksImg{
-    object-fit: cover;
-    margin: 0.5rem auto;
-    max-width: 20rem;
+  
+    width: 100%;
+
+
+    
+}
+.imgFream{
+    margin:1rem auto;
+    padding: 1rem;
+    background: rgb(70, 70, 70);
+    overflow: hidden;
+    width: 20rem;
+    height: 20rem;
+   
+    border-radius: 0.5rem;
 }
 .workBtn{
     padding: 0.5rem 2.5rem;

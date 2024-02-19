@@ -29,13 +29,13 @@
 }
 .hello{
     font-size: 1.75rem;
-    font-weight: 100;
+    font-weight: 200;
 }
 .introName{
     color:  rgb(70, 70, 255);
 }
 .introPara{
-    font-size: medium;
+    font-size: 1.5rem;
     font-weight: 100;
 }
 

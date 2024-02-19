@@ -18,7 +18,7 @@ export default function Contact() {
     var x = document.getElementById("snackbar");
  
     x.className = "show";
-    setTimeout(function(){ x.className = x.className.replace("show", ""); setSnackbarMsg(''); console.log(snackbarMsg) }, 3000);
+    setTimeout(function(){ x.className = x.className.replace("show", ""); setSnackbarMsg('');  console.log(snackbarMsg) }, 3000);
   }
 
   const form = useRef();

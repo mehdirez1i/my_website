@@ -23,10 +23,11 @@
     text-align: center;
     cursor: pointer;
     padding: 0.5rem ;
+    transition: 0.3s;
 }
 .desktopMenuListItem:hover{
     color: rgb(70, 70, 255);
-    padding: 0.35rem ;
+            
     border-bottom: 5px solid rgb(70, 70, 255);
 }
 .desktopMenuBtn{
@@ -49,7 +50,7 @@
 .active{
     color: blue;
     border-bottom: 0.3rem solid blue;
-    padding-bottom: 0.5rem;
+    
 }
 
 
